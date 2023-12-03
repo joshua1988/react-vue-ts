@@ -2,7 +2,9 @@
 
 [React와 Vue로 배우는 TypeScript 필수 개념 (feat. ChatGPT)](https://inf.run/fdprC) 인프런 온라인 강의 리포지토리입니다.
 
-![React와 Vue로 배우는 TypeScript 필수 개념 강의 썸네일](https://cdn.inflearn.com/public/courses/332443/cover/4c11f478-9dbf-4580-8c6e-39574bb8d6e5/react-vue-ts.png)
+<a href="https://inf.run/fdprC" target="_blank">
+  <img src="https://cdn.inflearn.com/public/courses/332443/cover/4c11f478-9dbf-4580-8c6e-39574bb8d6e5/react-vue-ts.png"/>
+</a>
 
 ## 저작권
 
